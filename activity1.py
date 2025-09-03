@@ -89,7 +89,7 @@ def game():
                 print("**** " +turn+ " won. ****")
                 break
 
-        if count == 10:
+        if count == 9:
             print("\ngame over\n")
             print("It's a tie")
 
